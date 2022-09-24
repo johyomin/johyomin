@@ -19,8 +19,9 @@
   <br/>
 <h3> ✏️  &nbsp;  MY LOG &nbsp;   ✏️   </h3> <br/>      
   
-  ![johyomin's github stats](https://github-readme-stats.vercel.app/api?username=johyomin&show_icons=true)
+
   [![johyomin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johyomin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/johyomin)
+    ![johyomin's github stats](https://github-readme-stats.vercel.app/api?username=johyomin&show_icons=true)
 
   
 <h3> :point_right:  &nbsp;  WITH ME &nbsp;   :point_left:   </h3> <br/>   
